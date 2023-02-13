@@ -1,0 +1,9 @@
+.body{background-color: peachpuff}
+.a {text-align: center;}
+.au{text-align: center;}
+.cont{text-align: center;}
+.list{
+    display: inline-block;
+
+     text-align: left;
+}
